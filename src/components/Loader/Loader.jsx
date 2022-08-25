@@ -4,7 +4,6 @@ export const Loader = () => {
   return (
     <FallingLines
       color="blue"
-      width="100"
       visible={true}
       ariaLabel="falling-lines-loading"
       height={200}
