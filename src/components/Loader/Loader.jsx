@@ -8,7 +8,6 @@ export const Loader = () => {
       ariaLabel="falling-lines-loading"
       height={200}
       width={200}
-      timeout={300}
     />
   );
 };
